@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** with a growing foundation in programming, networking, and database systems. Currently expanding expertise in **Cybersecurity** through active thesis research while strengthening analytical and problem-solving skills through hands-on projects and collaborative work.
+🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** at Green University of Bangladesh, with a growing foundation in programming, networking, and database systems. Currently expanding expertise in **Cybersecurity** through active thesis research while strengthening analytical and problem-solving skills through hands-on projects and collaborative work.
 
 🔐 Deeply passionate about **Cybersecurity, Machine Learning, and Artificial Intelligence** — driven by the belief that technology can solve real-world problems when placed in the right hands.
 
@@ -137,20 +137,11 @@
 
 ---
 
-## 📊 Contribution Breakdown
+## 📊 GitHub Metrics
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║           📊 Activity Overview                       ║
-╠══════════════════════════════════════════════════════╣
-║  💚 Commits        ████████████████████░░  ~80%      ║
-║  🔵 Issues         ███░░░░░░░░░░░░░░░░░░  ~10%      ║
-║  🟣 Pull Requests  ██░░░░░░░░░░░░░░░░░░░   ~7%      ║
-║  🟡 Code Review    █░░░░░░░░░░░░░░░░░░░░   ~3%      ║
-╚══════════════════════════════════════════════════════╝
-```
+![GitHub Metrics](https://raw.githubusercontent.com/Jenifar02/Jenifar02/main/github-metrics.svg)
 
 </div>
 
@@ -210,4 +201,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
