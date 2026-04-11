@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jenifar%20Binte%20Mahbub&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Cybersecurity%20Researcher%20%7C%20Leader&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jenifar%20Binte%20Mahbub&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20ML%20Explorer&descAlignY=58&descAlign=50" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=🔐+Cybersecurity+Thesis+Researcher;🤖+Machine+Learning+%26+AI+Explorer;🎙️+Anchor+%7C+Event+Organizer+%7C+Leader;💜+Code+%7C+Research+%7C+Innovate;🌱+Lifelong+Learner+%7C+Problem+Solver)](https://github.com/Jenifar02)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=🔐+Cybersecurity+Enthusiast;🤖+Machine+Learning+%26+AI+Explorer;🎙️+Anchor+%7C+Event+Organizer;💜+Code+%7C+Research+%7C+Innovate;🌱+Lifelong+Learner+%7C+Problem+Solver)](https://github.com/Jenifar02)
 
 </div>
 
@@ -210,3 +210,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
