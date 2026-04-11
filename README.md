@@ -2,151 +2,161 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=🔐+Cybersecurity+Thesis+Researcher;🤖+Machine+Learning+%26+AI+Explorer;🎙️+Anchor+%7C+Event+Organizer+%7C+Leader;💜+Code+%7C+Research+%7C+Innovate)](https://github.com/Jenifar02)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=🔐+Cybersecurity+Thesis+Researcher;🤖+Machine+Learning+%26+AI+Explorer;🎙️+Anchor+%7C+Event+Organizer+%7C+Leader;💜+Code+%7C+Research+%7C+Innovate;🌱+Lifelong+Learner+%7C+Problem+Solver)](https://github.com/Jenifar02)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👩‍💻 About Me
 
-### 👩‍💻 About Me
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```python
-class Jenifar:
-    name       = "Jenifar Binte Mahbub"
-    degree     = "Undergraduate Student in Computer Science & Engineering"
-    location   = "Dhaka, Bangladesh 🇧🇩"
-    focus      = ["Cybersecurity ", "Machine Learning ", "AI"]
-    thesis     = "Currently researching in Cybersecurity domain"
-    hobbies    = ["Anchoring ", "Event Organizing ",
-                  "Creative Writing ", "Exploring Tech "]
-    mindset    = "Every day is a new commit to becoming better.
-```
+🎓 **Undergraduate Student in Computer Science and Engineering (CSE)** at Green University of Bangladesh, with a growing foundation in programming, networking, and database systems. Currently expanding expertise in **Cybersecurity** through active thesis research while strengthening analytical and problem-solving skills through hands-on projects and collaborative work.
 
-- 🎓 **CSE Undergraduate** @ Green University of Bangladesh
-- 🔐 Actively working on **Cybersecurity Thesis Research**
-- 🤖 Passionate about **Cybersecurity,Machine Learning, AI & Data Science**
-- 🎙️ Experienced **Anchor & Event Coordinator**
-- 💼 **Joint Publication Secretary** @ BASIS Student Forum — GUB Chapter
-- 💰 **Treasurer** @ Green University Research & Publication Community
-- 🌱 *"The expert in anything was once a beginner who refused to give up."*
+🔐 Deeply passionate about **Cybersecurity, Machine Learning, and Artificial Intelligence** — driven by the belief that technology can solve real-world problems when placed in the right hands.
+
+🎙️ Beyond code, I am an experienced **Anchor and Event Coordinator**, bringing strong communication and leadership skills to every environment — academic or social. I thrive in dynamic, collaborative spaces where ideas meet execution.
+
+> *✨ "Technology is not just a tool — it's a language I speak fluently." ✨*
 
 <br/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🏆 Leadership & Involvement
 
-```python
-__SKILLS__ = {
-    "Languages"    : ["C", "C++", "Python", "Java"],
-    "Database"     : ["MySQL"],
-    "OS"           : ["Windows", "Kali Linux 🐉"],
-    "Networking"   : ["Basic Networking Concepts"],
-    "ML / AI"      : ["Scikit-Learn", "NumPy", "Pandas"],
-    "Security"     : ["Cybersecurity Research", "Kali Linux Tools"],
-    "Dev Tools"    : ["VS Code", "GitHub", "Google Colab"],
-    "Professional" : ["Communication", "Anchoring 🎙️", "Leadership",
-                      "Creative Writing ✍️", "Presentation"],
-    "Spoken Lang"  : ["Bengali 🇧🇩 (Native)", "English 🌐 (Fluent)"],
-}
-```
-
----
-
-### 🏷️ Languages & Tools
-
-**💻 Programming:**
-
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**🔐 Security & OS:**
-
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**🤖 ML & Data Science:**
-
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**🛠️ Tools & Platforms:**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
----
-
-### 🏆 Leadership & Involvement
+<div align="center">
 
 | 🏅 Role | 🏛️ Organization | 📅 Duration |
-|:---|:---|:---|
+|:---|:---|:---:|
 | 🖊️ **Joint Publication Secretary** | BASIS Student Forum — GUB Chapter | 2025 – Present |
 | 💰 **Treasurer** | Green University Research & Publication Community (GURPC) | 2026 – Present |
-| 🎙️ **Anchor** | Multiple University-level Events,Academic & Social Programs | Ongoing |
+| 🎪 **Event Coordinator** | Multiple University-level Events | Ongoing |
+| 🎙️ **Anchor** | Academic & Social Programs | Ongoing |
 
-> 💡 *Planned & coordinated student events. Improved teamwork and leadership through communication projects.*
+</div>
 
----
-
-### 🚀 Featured Projects
-
-| 🔖 Project | 📝 Description | 🛠️ Tech |
-|:---|:---|:---|
-| [📧 Spam Email Classifier](https://github.com/Jenifar02/-SVM-model-to-classify-emails) | SVM model to classify emails as Spam or Not Spam using real datasets | Python, Scikit-Learn |
-| [📈 Linear Regression Model](https://github.com/Jenifar02/-Linear-regression) | Predicts diabetes progression using BMI & blood pressure features | Python, ML |
-| 🔐 **Cybersecurity Thesis** *(In Progress)* | Ongoing research thesis in Cybersecurity domain | Security, Research |
+> 💡 *Planned & coordinated student events. Improved teamwork and leadership through communication and creative projects.*
 
 ---
 
-### 📊 GitHub Metrics
+## 🛠️ Technical Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jenifar02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+**💻 Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**🔐 Cybersecurity & Operating Systems**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**🤖 Machine Learning & AI**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+**🗄️ Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**🎯 Professional Skills**
+
+![Communication](https://img.shields.io/badge/Communication-A855F7?style=for-the-badge&logo=devdotto&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-E91E63?style=for-the-badge&logo=devdotto&logoColor=white)
+![Anchoring](https://img.shields.io/badge/Anchoring_🎙️-FF6B6B?style=for-the-badge)
+![Creative Writing](https://img.shields.io/badge/Creative_Writing_✍️-4CAF50?style=for-the-badge)
+![Presentation](https://img.shields.io/badge/Presentation-FF9900?style=for-the-badge&logo=slides&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🔖 Project | 📝 Description | 🛠️ Tech | ⭐ |
+|:---|:---|:---|:---:|
+| [📧 Spam Email Classifier](https://github.com/Jenifar02/-SVM-model-to-classify-emails) | SVM model classifying emails as Spam / Not Spam using real datasets | Python, Scikit-Learn | ML |
+| [📈 Linear Regression Model](https://github.com/Jenifar02/-Linear-regression) | Predicts diabetes progression using BMI & blood pressure features | Python, ML | AI |
+| [✈️ FirstFlight](https://github.com/Jenifar02/FirstFlight) | First web development project — stepping into web | HTML, CSS | Web |
+| 🔐 **Cybersecurity Thesis** *(In Progress)* | Active research thesis in the Cybersecurity domain | Security, Research | 🔬 |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jenifar02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenifar02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenifar02&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jenifar02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jenifar02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jenifar02&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jenifar02&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 📈 Contribution Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Jenifar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jenifar02&theme=tokyo-night&hide_border=true&area=true&custom_title=Jenifar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jenifar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jenifar02&theme=tokyo-night&hide_border=true&area=true&custom_title=📈%20Jenifar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 Contribution Breakdown
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║           📊 Activity Overview                       ║
+╠══════════════════════════════════════════════════════╣
+║  💚 Commits        ████████████████████░░  ~80%      ║
+║  🔵 Issues         ███░░░░░░░░░░░░░░░░░░  ~10%      ║
+║  🟣 Pull Requests  ██░░░░░░░░░░░░░░░░░░░   ~7%      ║
+║  🟡 Code Review    █░░░░░░░░░░░░░░░░░░░░   ~3%      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -154,43 +164,11 @@ __SKILLS__ = {
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to enable the Snake animation (click to expand)</b></summary>
-
-1. In your `Jenifar02` repo, create this folder: `.github/workflows/`
-2. Create a file `snake.yml` with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
-### 💬 Ask Me About
+## 💬 Ask Me About
+
+<div align="center">
 
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-4CAF50?style=flat-square&logo=hackthebox&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
@@ -198,11 +176,14 @@ jobs:
 ![Data Science](https://img.shields.io/badge/-Data%20Science-FF9900?style=flat-square&logo=anaconda&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Leadership](https://img.shields.io/badge/-Leadership-A855F7?style=flat-square&logo=devdotto&logoColor=white)
-![Anchoring](https://img.shields.io/badge/-Anchoring%20🎙️-E91E63?style=flat-square)
+![Anchoring](https://img.shields.io/badge/-Anchoring-E91E63?style=flat-square)
+![Research](https://img.shields.io/badge/-Research-00BCD4?style=flat-square&logo=googlescholar&logoColor=white)
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -222,7 +203,7 @@ jobs:
 
 <br/><br/>
 
-*✨ "Technology is not just a tool — it's a language I speak fluently." ✨*
+*✨ "The expert in anything was once a beginner who refused to give up." ✨*
 
 <br/>
 
